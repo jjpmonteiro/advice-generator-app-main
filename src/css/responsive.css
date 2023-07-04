@@ -1,4 +1,4 @@
-@media (max-width: 768px) {
+@media (min-width: 768px) {
     .advice {
         padding-inline: 50px;
         width: 368px;
